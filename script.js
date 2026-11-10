@@ -81,7 +81,7 @@ function makeSword(){
     }
     updateForge()
 }
-function addHeat() {
+function addHeat(){
     // Read the input and convert it into a number
     const enteredValue = Number(heatInput.value);
     // Check if the input is empty, invalid, or not a positive whole number
